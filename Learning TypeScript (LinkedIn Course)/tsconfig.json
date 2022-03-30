@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "es2016",
+        "outDir": "dist",
+        "allowJs": true,
+        "checkJs": true,
+        "lib": [
+            "dom",
+            "es2016"
+        ]
+    }
+}
